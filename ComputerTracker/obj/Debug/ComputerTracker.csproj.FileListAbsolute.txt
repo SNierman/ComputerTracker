@@ -1,0 +1,7 @@
+C:\Users\shain\source\repos\ComputerTracker\ComputerTracker\obj\Debug\ComputerTracker.csproj.AssemblyReference.cache
+C:\Users\shain\source\repos\ComputerTracker\ComputerTracker\obj\Debug\ComputerTracker.csproj.CoreCompileInputs.cache
+C:\Users\shain\source\repos\ComputerTracker\ComputerTracker\bin\Debug\ComputerTracker.exe.config
+C:\Users\shain\source\repos\ComputerTracker\ComputerTracker\bin\Debug\ComputerTracker.exe
+C:\Users\shain\source\repos\ComputerTracker\ComputerTracker\bin\Debug\ComputerTracker.pdb
+C:\Users\shain\source\repos\ComputerTracker\ComputerTracker\obj\Debug\ComputerTracker.exe
+C:\Users\shain\source\repos\ComputerTracker\ComputerTracker\obj\Debug\ComputerTracker.pdb
